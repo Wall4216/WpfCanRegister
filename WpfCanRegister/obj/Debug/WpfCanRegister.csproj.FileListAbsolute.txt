@@ -1,0 +1,17 @@
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\bin\Debug\WpfCanRegister.exe.config
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\bin\Debug\WpfCanRegister.exe
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\bin\Debug\WpfCanRegister.pdb
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.csproj.AssemblyReference.cache
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\MainWindow.g.cs
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\App.g.cs
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister_MarkupCompile.cache
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister_MarkupCompile.lref
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\MainWindow.baml
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.g.resources
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.Properties.Resources.resources
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.csproj.GenerateResource.cache
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.exe
+C:\Users\Ilnaz\source\repos\WpfCanRegister\WpfCanRegister\obj\Debug\WpfCanRegister.pdb
